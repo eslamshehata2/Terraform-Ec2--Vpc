@@ -1,7 +1,6 @@
 variable "availabilityZone" {
      default = "us-east-1a"
 }
-
 variable "instanceTenancy" {
     default = "default"
 }
