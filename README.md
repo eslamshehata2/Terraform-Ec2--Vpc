@@ -1,13 +1,13 @@
-# Terraform-Ec2--Vpc
-Automate AWS Infrastructure creation with Terraform
 
 Terraform-AWS
 Design a complete AWS cloud architecture in IaC fashion using Terraform
 
 Demo
+
 Terraform is an infrastructure-as-code tool that makes it easier to define and manage cloud infrastructure throught the powerful syntax of HCL provided by Hashicorp, In this demo we will explain how Terraform works its magic to automate AWS cloud resources
 
 The aim of the project
+
 Design a new VPC schema and create associated subnets in different availability zones
 Design the routes and make your subnets public to be reachable from the Internet
 Create necessary security groups in the newly created VPC
