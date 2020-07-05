@@ -2,7 +2,7 @@
 Terraform-AWS
 Design a complete AWS cloud architecture in IaC fashion using Terraform
 
-Demo
+Demo 
 
 Terraform is an infrastructure-as-code tool that makes it easier to define and manage cloud infrastructure throught the powerful syntax of HCL provided by Hashicorp, In this demo we will explain how Terraform works its magic to automate AWS cloud resources
 
